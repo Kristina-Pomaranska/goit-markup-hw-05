@@ -158,6 +158,7 @@
   background: transparent;
   outline: transparent;
   transition: 250ms ease-in-out;
+  transition-property: border-color;
 }
 .form-input::placeholder {
   font-family: "Roboto", sans-serif;
